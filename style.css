@@ -1,0 +1,36 @@
+body
+{
+    font-family: 'Itim', handwriting;
+    background: #aaafff;
+}
+
+.header_div
+{
+    background: #aaf0d1;
+    color: indianred;
+}
+
+.header_div p{
+    font-family: 'Special Elite', cursive;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: "Special Elite", cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copyright_footer {
+    position: fixed;
+    background: #aaf0d1;
+    color: indianred;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149)
+}
